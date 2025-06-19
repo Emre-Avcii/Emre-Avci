@@ -5,7 +5,7 @@
 
 ## 📫 Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/emre-avc%C4%B1-a57433258/)
-- [Email](emreavci28@gmail.com)
+- Email : emreavci28@gmail.com
 
 ## 🛠️ Technologies I Use:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
